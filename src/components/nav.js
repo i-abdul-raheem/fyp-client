@@ -76,7 +76,7 @@ const nav = [
         link: "inventory"
     },
     {
-        title: "Products",
+        title: "Finished Goods",
         link: "products"
     }
 ];

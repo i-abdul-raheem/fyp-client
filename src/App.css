@@ -27,20 +27,20 @@
 }
 
 .myHeader {
-  background-color: #007dfe;
-  color: #fff;
+  background-color: #fff;
+  color: #000;
+  box-shadow: 10px 0 10px rgba(0, 0, 0, 0.2);
 }
 
 .myLight,
 .modal-header {
-  color: #fff;
+  color: #000;
 }
 
 .darkBlue,
 .card-header,
-.btn-primary,
 .modal-header {
-  background-color: #1093ff;
+  background-color: #fff;
 }
 
 .card {
@@ -48,9 +48,10 @@
 }
 
 .card-header {
-  color: #fff;
+  color: #000;
 }
 
+.btn-primary,
 .darkBluebtn button {
   background-color: #1093ff;
   color: #fff;
@@ -58,11 +59,7 @@
 
 .lightBlue,
 .modal-body {
-  background-color: #fafcff;
-}
-
-.lightBlue1 {
-  background-color: #bfd8ff;
+  background-color: #fff;
 }
 
 .noBorder {
@@ -71,12 +68,7 @@
 }
 
 body {
-  background-color: #fafcff;
-}
-
-.table-striped > tbody > tr:nth-child(odd) > td,
-.table-striped > tbody > tr:nth-child(odd) > th {
-  background-color: #bfd8ff;
+  background-color: #fff;
 }
 
 .myLogin{

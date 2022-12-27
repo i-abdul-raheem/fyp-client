@@ -21,7 +21,7 @@ function Header() {
     <>
       <Navbar key={false} expand={false} className="myHeader mb-3">
         <Container fluid>
-          <Navbar.Brand style={{ color: "#fff" }} href="#">
+          <Navbar.Brand href="#">
             ARHEX IBM
           </Navbar.Brand>
           <Navbar.Toggle
